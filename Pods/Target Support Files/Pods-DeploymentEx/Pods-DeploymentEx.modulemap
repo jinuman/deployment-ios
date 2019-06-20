@@ -1,0 +1,6 @@
+framework module Pods_DeploymentEx {
+  umbrella header "Pods-DeploymentEx-umbrella.h"
+
+  export *
+  module * { export * }
+}
